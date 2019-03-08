@@ -21,6 +21,3 @@ The client also would like to answer the following questions:
 The below table describes all the data fields which are found in the data (across three files). You will notice that the contents of some fields are meaningless text strings. This is due to "hashing" of text fields for data privacy. While their commercial interpretation is lost as a result of the hashing, they may still have predictive power.
 
 A whole host of rich investigations are possible. Your ideas on what some next steps could be, armed with such data is also of interest.
-
-
-![Table: Hackthon_case_training_data - The data provided for all the 16096 customers](/images/datset.png)
