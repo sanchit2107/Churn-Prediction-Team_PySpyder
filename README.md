@@ -21,3 +21,18 @@ The client also would like to answer the following questions:
 The below table describes all the data fields which are found in the data (across three files). You will notice that the contents of some fields are meaningless text strings. This is due to "hashing" of text fields for data privacy. While their commercial interpretation is lost as a result of the hashing, they may still have predictive power.
 
 A whole host of rich investigations are possible. Your ideas on what some next steps could be, armed with such data is also of interest.
+
+## Data fields and their description
+There are 16096 SME customers present. 15500 customers considering for Model training, validation and testing and 596 customers considered for predicting going to churn in next 3 months or not (where output is not present for these 596 customers)
+
+#### Table: Hackthon_case_training_data 
+*The data provided for all the 16096 customers*
+
+#### Table2: Hackthon_case_training_hist_data
+*The data provided for all the 16096 customers 
+Every customer have last 12 months data (12 rows of data for each Customer )*
+
+#### Table3: Hackthon_case_training_output
+*The output provided for only 15500 customers*
+
+
